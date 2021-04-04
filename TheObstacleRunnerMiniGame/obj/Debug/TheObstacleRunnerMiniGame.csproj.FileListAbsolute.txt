@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\bin\Debug\TheObstacleRunnerMiniGame.exe.config
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\bin\Debug\TheObstacleRunnerMiniGame.exe
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\bin\Debug\TheObstacleRunnerMiniGame.pdb
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.csprojAssemblyReference.cache
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.Form1.resources
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.Properties.Resources.resources
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.exe
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.pdb
+C:\Users\User\Desktop\II L\lab2\TheObstacleRunnerMiniGame\TheObstacleRunnerMiniGame\obj\Debug\TheObstacleRunnerMiniGame.Form2.resources
